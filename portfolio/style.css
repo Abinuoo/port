@@ -42,6 +42,7 @@ nav{
 }
 .logo{
     width: 150px;
+    border-radius: 105px;
 
 }
 nav ul li{
@@ -390,7 +391,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){ 
     #header{
-        background-image: url();
+        background-image: url("images/abinuinsta-removebg-preview.png");
 
     }
 
